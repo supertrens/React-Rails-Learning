@@ -23,7 +23,7 @@ class Home extends Component {
           id: 3,
           title: "This is the title 1 3",
           description: "Lorem Ipsen",
-          active: false,
+          active: true,
         },
         {
           id: 4,
